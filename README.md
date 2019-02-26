@@ -2,12 +2,12 @@
 
 Please create new php page from given mockup. Just a single landing page.
 
-1. The mockup file is located on https://github.com/faridefendi58/frontend-test/blob/master/assets/images/mockup.png.
-	Or you can simply clone this github repository (https://github.com/faridefendi58/frontend-test.git) into 
+1. The mockup file is located on https://github.com/bylabz/frontend-test/blob/master/assets/images/mockup.png.
+	Or you can simply clone this github repository (https://github.com/bylabz/frontend-test.git) into 
 	your local machine.
 1. Feel free to use your favorite css framework, bootstrap, materialize css, and etc. 
 1. All the icons and the other images you need should be available on that github repository. 
-	https://github.com/faridefendi58/frontend-test/tree/master/assets  
+	https://github.com/bylabz/frontend-test/tree/master/assets  
 1. You should use the same fonts as the mockup needed. For example this section title (http://i.prntscr.com/96t7lWY_RNSAP_8YKbd1hw.png) 
 	must be Montserrat-Bold. Please check our live page version (https://www.niagahoster.co.id) for the detail fonts style.
 1. Please don't put a hardcode value of the price (http://i.prntscr.com/nuCmy2U3Trm2ip7wimzDXA.png). 
